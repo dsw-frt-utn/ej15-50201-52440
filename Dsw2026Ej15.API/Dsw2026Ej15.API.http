@@ -1,0 +1,6 @@
+@Dsw2026Ej15.API_HostAddress = http://localhost:5063
+
+GET {{Dsw2026Ej15.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
